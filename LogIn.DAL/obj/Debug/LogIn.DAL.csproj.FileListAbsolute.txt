@@ -1,0 +1,6 @@
+C:\repos\LogIn\LogIn.DAL\bin\Debug\LogIn.DAL.dll
+C:\repos\LogIn\LogIn.DAL\bin\Debug\LogIn.DAL.pdb
+C:\repos\LogIn\LogIn.DAL\obj\Debug\LogIn.DAL.csprojAssemblyReference.cache
+C:\repos\LogIn\LogIn.DAL\obj\Debug\LogIn.DAL.csproj.CoreCompileInputs.cache
+C:\repos\LogIn\LogIn.DAL\obj\Debug\LogIn.DAL.dll
+C:\repos\LogIn\LogIn.DAL\obj\Debug\LogIn.DAL.pdb

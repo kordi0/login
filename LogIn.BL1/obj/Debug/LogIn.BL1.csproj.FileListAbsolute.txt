@@ -1,0 +1,9 @@
+C:\repos\LogIn\LogIn.BL1\bin\Debug\LogIn.BL1.dll
+C:\repos\LogIn\LogIn.BL1\bin\Debug\LogIn.BL1.pdb
+C:\repos\LogIn\LogIn.BL1\bin\Debug\LogIn.DAL.dll
+C:\repos\LogIn\LogIn.BL1\bin\Debug\LogIn.DAL.pdb
+C:\repos\LogIn\LogIn.BL1\obj\Debug\LogIn.BL1.csprojAssemblyReference.cache
+C:\repos\LogIn\LogIn.BL1\obj\Debug\LogIn.BL1.csproj.CoreCompileInputs.cache
+C:\repos\LogIn\LogIn.BL1\obj\Debug\LogIn.BL1.csproj.CopyComplete
+C:\repos\LogIn\LogIn.BL1\obj\Debug\LogIn.BL1.dll
+C:\repos\LogIn\LogIn.BL1\obj\Debug\LogIn.BL1.pdb
